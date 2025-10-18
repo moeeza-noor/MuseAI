@@ -4,7 +4,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success)]()
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB.svg)]()
 [![LangChain](https://img.shields.io/badge/LangChain-RAG--Pipeline-green)]()
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 ---
